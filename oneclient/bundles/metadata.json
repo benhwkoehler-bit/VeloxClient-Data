@@ -1,0 +1,32 @@
+{
+  "versions": {
+    "26.3": {
+      "fabric": [
+        {
+          "path": "/oneclient/bundles/generated/velox-performance-26.3-fabric-windows.mrpack",
+          "sha1": "05fca38b5c4e964da06c1bf0be6fb41812ece463",
+          "os": "windows"
+        },
+        {
+          "path": "/oneclient/bundles/generated/velox-performance-26.3-fabric-macos.mrpack",
+          "sha1": "e0f8df272f2684d0861e1fff6753b1d0f9e06630",
+          "os": "osx"
+        }
+      ]
+    },
+    "26.2": {
+      "fabric": [
+        {
+          "path": "/oneclient/bundles/generated/velox-performance-26.2-fabric-windows.mrpack",
+          "sha1": "587b777326e1ea2629f5ac8ca5d8c616d021085a",
+          "os": "windows"
+        },
+        {
+          "path": "/oneclient/bundles/generated/velox-performance-26.2-fabric-macos.mrpack",
+          "sha1": "012c8274357a597e13cb15043a161c1786107190",
+          "os": "osx"
+        }
+      ]
+    }
+  }
+}

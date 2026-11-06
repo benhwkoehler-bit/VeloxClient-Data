@@ -1,0 +1,114 @@
+{
+  "clusters": [
+    {
+      "major_version": 8,
+      "name": "Bountiful Update",
+      "long_description": "Minecraft's 1.8 update, known as the \"Bountiful Update\", added oceans monuments, armor stands, slime blocks, granite, diorite and andesite, along with spectator mode and a long list of gameplay tweaks. 1.8.9 is still the home of competitive PvP.",
+      "tags": [
+        "Bountiful Update"
+      ],
+      "entries": [
+        {
+          "minor_version": 9,
+          "loader": "ornithe",
+          "java_version": 25,
+          "tags": [
+            "PvP"
+          ]
+        }
+      ]
+    },
+    {
+      "major_version": 21,
+      "name": "Tricky Trials",
+      "long_description": "Minecraft's 1.21 update, known as \"Tricky Trials,\" primarily focuses on combat adventures and tinkering, introducing trial chambers, new copper block variants, a new crafting tool, and a new weapon. It also features new hostile mobs, paintings, and gameplay enhancements.",
+      "tags": [
+        "Tricky Trials"
+      ],
+      "entries": [
+        {
+          "minor_version": 1,
+          "loader": "fabric",
+          "tags": [
+            "PvP",
+            "Survival"
+          ]
+        },
+        {
+          "minor_version": 10,
+          "name": "The Copper Age",
+          "loader": "fabric",
+          "tags": [
+            "PvP",
+            "Survival"
+          ]
+        },
+        {
+          "minor_version": 11,
+          "name": "Mounts of Mayhem",
+          "loader": "fabric",
+          "tags": [
+            "PvP",
+            "SkyBlock",
+            "Survival"
+          ],
+          "predownload": true
+        }
+      ]
+    },
+    {
+      "major_version": 26,
+      "name": "Minecraft from 2026",
+      "long_description": "Minecraft's 26.x updates, starting with the release of \"Tiny Takeover\", primarily focuses on mob charm and quality-of-life improvements, overhauling textures and models for every baby mob that previously lacked a unique model. It also features the golden dandelion, nametag crafting, and other gameplay enhancements.",
+      "tags": [
+        "Tiny Takeover"
+      ],
+      "predownload": true,
+      "entries": [
+        {
+          "minor_version": 1,
+          "patch_version": 2,
+          "name": "Tiny Takeover",
+          "loader": "fabric",
+          "tags": [
+            "PvP",
+            "SkyBlock",
+            "Survival"
+          ]
+        },
+        {
+          "minor_version": 2,
+          "name": "Chaos Cubed",
+          "loader": "fabric",
+          "tags": [
+            "PvP",
+            "SkyBlock",
+            "Survival"
+          ]
+        },
+        {
+          "minor_version": 3,
+          "name": "Wilderness Bound",
+          "loader": "fabric",
+          "tags": [
+            "PvP",
+            "SkyBlock",
+            "Survival"
+          ]
+        }
+      ]
+    }
+  ],
+  "migrations": [
+    {
+      "id": "2026-07-15-26.1-to-26.1.2-fabric",
+      "from": {
+        "mc_version": "26.1",
+        "loader": "fabric"
+      },
+      "to": {
+        "mc_version": "26.1.2"
+      }
+    }
+  ]
+}
