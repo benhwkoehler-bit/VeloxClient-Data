@@ -1,1 +1,8 @@
-{}
+{
+  "1.8": "/oneclient/versions/art/sky-arena.webp",
+  "1.21": "/oneclient/versions/art/trial-halls.webp",
+  "26.1": "/oneclient/versions/art/jungle-canyon.webp",
+  "26.2": "/oneclient/versions/art/lantern-market.webp",
+  "26.3": "/oneclient/versions/art/blossom-valley.webp",
+  "default": "/oneclient/versions/art/night-ridge.webp"
+}
