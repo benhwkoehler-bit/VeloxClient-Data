@@ -4,12 +4,12 @@
       "fabric": [
         {
           "path": "/oneclient/bundles/generated/velox-performance-26.3-fabric-windows.mrpack",
-          "sha1": "496d0c75110c5053cd256a9c40103d2b72777733",
+          "sha1": "bd8dd35cdd6be9f45322c66e7985f5918a69d365",
           "os": "windows"
         },
         {
           "path": "/oneclient/bundles/generated/velox-performance-26.3-fabric-macos.mrpack",
-          "sha1": "c5763263e63041aa164ac3a88676a353b052c95d",
+          "sha1": "791e6fa212b704b06862bab6e585ce7642fb68f0",
           "os": "osx"
         }
       ]
@@ -18,12 +18,12 @@
       "fabric": [
         {
           "path": "/oneclient/bundles/generated/velox-performance-26.2-fabric-windows.mrpack",
-          "sha1": "c4ef140bf7eb679c03effe86368ea6a0d4406512",
+          "sha1": "6bae985c9f4a029fcc2ea609ee0c627bfe26aa0a",
           "os": "windows"
         },
         {
           "path": "/oneclient/bundles/generated/velox-performance-26.2-fabric-macos.mrpack",
-          "sha1": "c5a807a9bfac9f8aaefa7d615b942c9fa1fb5150",
+          "sha1": "3037ab21c5ae15def575ea46eefc715c2c32fa4d",
           "os": "osx"
         }
       ]
