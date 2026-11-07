@@ -4,12 +4,12 @@
       "fabric": [
         {
           "path": "/oneclient/bundles/generated/velox-performance-26.3-fabric-windows.mrpack",
-          "sha1": "05fca38b5c4e964da06c1bf0be6fb41812ece463",
+          "sha1": "8db1004d7a61d6a0a5757093e1d9d4ca075b5bc7",
           "os": "windows"
         },
         {
           "path": "/oneclient/bundles/generated/velox-performance-26.3-fabric-macos.mrpack",
-          "sha1": "e3c57511b3c0446cf8051ede58c6d9a32ea621d1",
+          "sha1": "9d7fe3f14ef6ac88edc0028730372ad37321d3a4",
           "os": "osx"
         }
       ]
